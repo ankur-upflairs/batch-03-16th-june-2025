@@ -1,0 +1,15 @@
+html => hyper text markup language
+to define structure of a webpage
+tag => to tell the browser what to display and how to display 
+<p> => paragraph => (opening tag)
+</p> (closing tag)
+element =>
+opening tag + content + closing tag 
+<p> this is paragraph </p>
+-----------
+attribute => gives some extra info to tag 
+used in opening tag and after tag name
+
+<p align="right" > this is paragraph </p>
+<!DOCTYPE html> => type and version 
+
