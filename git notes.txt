@@ -1,0 +1,19 @@
+git -v
+---------
+configure user
+git config --global user.name "user_name"
+git config --global user.email "abc@xyz.com"
+----------
+git clone https://github.com/ankur-upflairs/test8.git
+
+git add .
+git commit -m "sample file added"
+git push
+------------
+
+git init
+git add .
+git commit -m "dkfj"
+git branch -M main
+git remote add origin https://github.com/ankur-upflairs/test9.git
+git push -u origin main
