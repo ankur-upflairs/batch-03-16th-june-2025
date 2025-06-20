@@ -1,0 +1,11 @@
+color:red;
+
+selector => 
+h1 {
+    background-color:green;
+}
+
+
+
+
+

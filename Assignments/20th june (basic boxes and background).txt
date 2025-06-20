@@ -1,0 +1,113 @@
+🎨 CSS Basic Designing – Practical Assignment
+
+📝 Objective:
+Apply basic CSS properties to style HTML elements using:
+- color
+- background-color
+- border
+- height
+- width
+
+📂 Instructions:
+1. Create an HTML file and link a CSS file.
+2. Complete the following tasks using only HTML and CSS.
+3. Use internal or external CSS (not inline styles).
+
+✅ Tasks:
+
+1️⃣ Create a `<div>` box with:
+   - Width: 300px
+   - Height: 150px
+   - Background-color: lightblue
+   - Border: 2px solid navy
+
+2️⃣ Create a `<p>` paragraph inside the div with:
+   - Text color: darkblue
+   - Font-size: 16px
+
+3️⃣ Create 3 buttons with:
+   - Each having different background-color (e.g., red, green, yellow)
+   - Width: 100px
+   - Height: 40px
+   - Border: none
+
+4️⃣ Create a circle using a div:
+   - Width: 100px
+   - Height: 100px
+   - Border-radius: 50%
+   - Background-color: orange
+   - Border: 2px dashed brown
+
+5️⃣ Create a colored card layout:
+   - Card width: 250px
+   - Card height: 300px
+   - Background: gradient (e.g., from blue to purple)
+   - Border: 1px solid gray
+
+
+📤 Deliverables:
+- Submit your HTML & CSS files
+- Ensure each task is commented in your code for identification
+Task 2 :-
+
+🎨 CSS Designing Assignment – Core Properties Practice
+
+📝 Objective:
+Use basic CSS styling properties to design layout components using:
+- color
+- background-color
+- border
+- height
+- width
+- background (image, repeat, size, etc.)
+
+📂 Instructions:
+1. Create an HTML file and link a CSS file.
+2. Complete the following design tasks using only CSS.
+3. Use external or internal styles only (avoid inline styles).
+4. Add comments in your CSS to mark each task.
+
+✅ Tasks:
+
+1️⃣ Create a header section:
+   - Width: 100%
+   - Height: 100px
+   - Background-color: teal
+   - Text color: white
+   - Add a border at the bottom: 3px solid darkcyan
+
+2️⃣ Create a content box:
+   - Width: 400px
+   - Height: 200px
+   - Background-color: lightgray
+   - Border: 2px dashed black
+   - Text color: #333
+
+3️⃣ Create a profile card:
+   - Width: 300px
+   - Height: 350px
+   - Background-image: use any public image URL
+   - Background-size: cover
+   - Background-repeat: no-repeat
+   - Background-position: center
+   - Add a solid border with radius: 10px
+
+4️⃣ Create a footer section:
+   - Width: 100%
+   - Height: 80px
+   - Background: linear-gradient(to right, #4b6cb7, #182848)
+   - Border-top: 3px solid #000
+   - Text color: white
+
+5️⃣ Create a notification box:
+   - Width: 250px
+   - Height: 100px
+   - Background-color: #fff3cd
+   - Border-left: 5px solid #ffc107
+   - Text color: #856404
+
+📤 Deliverables:
+- Submit your HTML & CSS files with clearly marked sections
+- Use comments like `/* Task 1: Header */` for clarity
+
+
