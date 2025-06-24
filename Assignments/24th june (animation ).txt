@@ -1,0 +1,50 @@
+Assignment Title: CSS Animation Practice
+
+Objective:
+Understand and apply core concepts of CSS animations including transitions, 
+keyframes, and transform effects.
+
+Instructions:
+- Each task should be done in a separate <div> or section.
+- Use only HTML and CSS (no JavaScript).
+- Submit one file named css_animation_assignment.html.
+
+🎯 TASK 1: Smooth Hover Animation (Using transition)
+------------------------------------------------------
+Design a button with the following behavior:
+- On hover:
+  - Background color changes smoothly
+  - The button grows slightly in size
+- Use transition for smooth effect
+
+✅ Requirements:
+- Width and height should remain consistent
+- Duration of animation: 0.5s
+- Use :hover selector
+
+🎯 TASK 2: Rotating Gear (Using @keyframes)
+--------------------------------------------
+Create a gear-like icon or any square div with a gear symbol (🛠️ or ⚙️) that rotates continuously.
+
+✅ Requirements:
+- Use @keyframes to rotate the element 360 degrees
+- Animation should repeat infinitely
+- Duration: 4 seconds
+- Use transform: rotate(...)
+
+🎯 TASK 3: Text Fade In + Slide (Using @keyframes)
+---------------------------------------------------
+Display a heading (<h1>Welcome to CSS World</h1>) that:
+- Starts with opacity: 0 and slides in from the left
+- Ends at full opacity and centered
+- Duration: 3 seconds, plays only once
+
+✅ Requirements:
+- Use @keyframes with from and to
+- Use opacity and transform: translateX(...)
+- Center the text using flexbox or text-align
+
+Bonus (Optional):
+-----------------
+💡 Add a background animation (like color gradient shift or slow zoom-in background image)
+
