@@ -1,0 +1,67 @@
+ Beginner Level (1–10)
+Take a number and check if it's even or odd.
+
+Input a number and check if it is positive, negative, or zero.
+
+Take two numbers and print the greater one.
+
+Input a number and check if it's divisible by 3 or not.
+
+Input a number and check if it’s a multiple of 7 or not.
+
+Input a character and check whether it's a vowel or consonant (assume lowercase).
+
+Input a number and check if it is between 10 and 50.
+
+Input a number and check if it is a 3-digit number.
+
+Input age and check if the person is eligible for voting (≥18).
+
+Input a temperature and print if it's Hot (>30), Moderate (15–30), or Cold (<15).
+
+🟡 Intermediate Level (11–20)
+Input three numbers and find the greatest among them.
+
+Input a year and check if it is a leap year.
+
+Input a character and check if it's uppercase, lowercase, digit, or special character.
+
+Input marks of a student (out of 100) and print the grade:
+
+A (≥90), B (≥75), C (≥60), D (≥40), F (<40).
+
+Input the day number (1–7) and print the corresponding weekday.
+
+Take a number and check whether it is divisible by both 5 and 11.
+
+Input a number and check if it is a prime number (basic logic).
+
+Input someone's name and age, and check if they can get a driving license (age ≥ 18).
+
+Take two numbers and check if they are equal, or print which one is greater.
+
+Input a number and print whether it is even, odd, and also whether it's positive or negative.
+
+🔴 Advanced Level (21–30)
+Input marks in 5 subjects, calculate the average and print grade using if-else.
+
+Take a number and check if it's divisible by either 3 or 5 but not both.
+
+Input a number and check if it is a palindrome number (e.g., 121).
+
+Input a number and check if the sum of its digits is even or odd.
+
+Input hours worked and calculate overtime pay. Overtime is paid for >40 hours at Rs. 12/hr.
+
+Input basic salary and calculate net salary based on conditions:
+
+HRA = 20%, DA = 50% if basic < 10000; else HRA = 30%, DA = 80%.
+
+Input month number and print number of days in that month.
+
+Take a password as input and check if it is strong (length ≥8, includes digit and special character).
+
+Input the side lengths of a triangle and check if it is valid, isosceles, equilateral, or scalene.
+
+Create a mini login system: input username and password, and check if both match stored values.
+
