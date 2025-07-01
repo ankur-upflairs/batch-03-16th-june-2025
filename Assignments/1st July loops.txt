@@ -1,0 +1,46 @@
+🔁 1. Loop Basics
+Print numbers from 1 to 10 using a for loop.
+
+Print numbers from 10 down to 1 using a while loop.
+
+Print numbers from 1 to 5 using a do...while loop.
+
+🔁 2. Even, Odd, Multiples
+Print all even numbers from 1 to 50.
+
+Print all odd numbers between 20 and 50.
+
+Print all numbers divisible by 3 from 1 to 30.
+
+➕ 3. Summation & Product
+Find the sum of numbers from 1 to 100.
+
+Find the product of numbers from 1 to 10.
+
+Find the sum of all even numbers between 1 and 50.
+
+Find the sum of squares of numbers from 1 to 10.
+(i.e., 1² + 2² + ... + 10²)
+
+🧠 4. Conditionals Inside Loops
+Print numbers from 1 to 20, skip multiples of 4 using continue.
+
+Print numbers from 1 to 10, stop at 7 using break.
+
+Count how many numbers between 1 and 100 are divisible by both 3 and 5.
+
+🔂 5. Nested Loops (Without Patterns)
+Print all pairs (i, j) where i and j go from 1 to 3.
+
+Find all combinations of (a, b) such that a + b = 5 (1 ≤ a, b ≤ 4).
+
+🧮 6. Logic-Based Tasks
+Check if a given number is a prime number using a loop.
+
+Print the factorial of a number (e.g., 6! = 720).
+
+Print the reverse of a number using a loop (e.g., 123 → 321).
+
+Count the number of digits in a given number using a loop.
+
+Check if a number is a palindrome (e.g., 121, 1331) using only number operations and loops.

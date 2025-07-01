@@ -1,11 +1,31 @@
 //while , do while , for 
 //start , end, updation 
-let i =1 ;
-while(i<11){
-    //code 
-    console.log('hello')
+// let i =1 ;
+// while(i<11){
+//     //code 
+//     console.log('hello')
+//     i++
+// }
+// Find the sum of numbers from 1 to 100.
+// let sum = 0
+// let i= 1 
+// while(i<101){
+//     sum+=i
+//     i++
+// }
+
+// console.log(sum)
+
+// for(let i=100; i>0; i--){
+//     console.log(i)
+// }
+
+let i = 1
+do{
+    console.log(i)
     i++
-}
+}while(i < 11)
+
 /*
 Print numbers from 1 to 10 using a for loop.
 
@@ -39,6 +59,19 @@ Print all squares of numbers from 1 to 10.
 (i.e., 1², 2², 3²…)
 
 Reverse a number using a loop (e.g., input: 123, output: 321).
+Use nested for loops to print a 3x3 grid of stars (*).
+
+Create a triangle pattern of # using nested loops.
+Example:
+
+#
+##
+###
+🔁 Conditionals inside Loops
+Print numbers from 1 to 30, but skip multiples of 3 using continue.
+
+Print numbers from 1 to 10, but stop when the number is 7 using break.
+
 
 */
 
