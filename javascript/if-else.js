@@ -1,14 +1,52 @@
 var prompt = require('prompt-sync')();
 // let age =20
-let age =prompt('enter your age : - ')
-age = parseInt(age)
+// let age =prompt('enter your age : - ')
+// age = parseInt(age)
 
-if(age > 18){
-    console.log('adult')
-}
-else{
-    console.log('minor')
-}
+// if(age > 18){
+//     console.log('adult')
+// }
+// else{
+//     console.log('minor')
+// }
+
+// let n = parseInt(prompt('enter a no : '))
+// if(n > 0){console.log('positive')}
+// else if(n< 0 ){console.log('negetive')}
+// else if(n== 0){console.log('zero')}
+// else{ console.log('no codition match')}
+
+// let n = parseInt(prompt('enter a no b/w 1 -7 : '))
+
+// switch (n) {
+//     case 1:   
+//         console.log('monday')     
+//         break;
+//      case 2:   
+//         console.log('tuesday')    
+//         break;
+//      case 3:   
+//         console.log('wednessday')     
+//         break;
+//      case 4:   
+//         console.log('thursday')     
+//         break;
+//     default:
+//         console.log('no case match')
+//         break;
+// }
+
+//ternary operator
+// condition ? state1 : state2
+// let n = parseInt(prompt('enter a no  : '))
+
+// n%2==0 ? console.log('even') : console.log('odd')
+
+// let x = n%2==0 ? 'even' : 'odd'
+
+// console.log(x)
+
+
 /*
 Check Even or Odd:
 Write a program that takes a number as input and checks whether it is even or odd using if-else.
