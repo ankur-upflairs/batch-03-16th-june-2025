@@ -19,7 +19,16 @@ let name = "rohit"
 // console.log(x.lastIndexOf('l'))
 // console.log(x.length)
 // console.log(x.padStart(10,'@'))
- 
+//  console.log(x.repeat(2))
+// console.log(x.replace('l','xy'))
+// console.log(x.replaceAll('l','z'))
+let a = 'my name is sunil'
+// console.log(a.split(' '))
+// let b =a.split(' ')
+// console.log(b.join('$'))
+// console.log(a.slice(2,7))
+// console.log(a.toUpperCase())
+// console.log()
 
 
 
