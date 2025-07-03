@@ -42,6 +42,48 @@ let a = [23,12,45,9,14,45]
 // }
 // console.log(y)
 
+let arr1 = [1,232,45,7,8,2]
+// arr1.forEach((value,index,arr)=>{
+//     console.log(value,index,arr)    
+// })
+
+// arr1.every(v=>v>1)
+// arr1.some(v => v < 2)
+// console.log(arr1.find(v=>v>=45))
+// console.log(arr1.findIndex(v=>v>3))
+// console.log(arr1.map(v=>v*2))
+// console.log(arr1.filter(v=>v>40))
+// console.log(arr1.filter((v,i)=>i!=2)) 
+// console.log(arr1.fill(5,1,2))
+// console.log(arr1.reduce((preValue,currentValue,i,arr)=>{
+//     return preValue+currentValue
+//  },0))
+//p-0 ,1= p-1,232 = p-233,45 = p-278 , 7
+// console.log(arr1.sort((a,b)=>b-a))
+let x = [2,'abc','xyz',1,65,'fc',90,33]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
