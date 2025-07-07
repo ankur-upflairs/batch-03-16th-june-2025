@@ -51,7 +51,7 @@ let arr1 = [1,232,45,7,8,2]
 // arr1.some(v => v < 2)
 // console.log(arr1.find(v=>v>=45))
 // console.log(arr1.findIndex(v=>v>3))
-// console.log(arr1.map(v=>v*2))
+// console.log(arr1.map(v=>v*2)) 
 // console.log(arr1.filter(v=>v>40))
 // console.log(arr1.filter((v,i)=>i!=2)) 
 // console.log(arr1.fill(5,1,2))
