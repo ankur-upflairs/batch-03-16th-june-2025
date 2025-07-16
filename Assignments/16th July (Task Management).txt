@@ -1,0 +1,54 @@
+Assignment Title: Task Manager App with CRUD Functionality in React
+
+Objective:
+Build a **Task Manager** application using React that allows users to create, manage, update, and delete tasks with status tracking and priorities.
+
+Tech Stack:
+- React (Functional Components)
+- useState
+- (Optional: useEffect for localStorage sync)
+
+Instructions:
+-------------
+Create a React app named `task-manager-app` using Vite or CRA (Create React App).
+
+🧩 Features to Implement:
+
+✅ 1. Add New Task (CREATE)
+- Form fields:
+  - Task Title (required)
+  - Description (optional)
+  - Priority: Low, Medium, High (dropdown)
+  - Status: Pending (default)
+- On submission, add the task to the list with a unique ID
+
+✅ 2. View Task List (READ)
+- Display all tasks in a table or card format
+- Each task should show:
+  - Title
+  - Description
+  - Priority
+  - Status
+  - Action buttons (Edit, Delete, Change Status)
+
+✅ 3. Edit Task (UPDATE)
+- Allow editing of task title, description, and priority
+- Update the state on save
+
+✅ 4. Delete Task (DELETE)
+- Remove the task from the list on clicking delete
+
+✅ 5. Change Task Status
+- Add buttons or dropdown to mark a task as:
+  - Pending
+  - In Progress
+  - Completed
+
+🎁 Bonus Features (Optional):
+- Filter by Status or Priority
+- Search by Title
+- Save and load tasks from `localStorage`
+- Task Due Date with countdown or label
+- Responsive UI with clean design (Tailwind, Bootstrap, or custom CSS)
+
+🗂 Suggested Folder Structure:
