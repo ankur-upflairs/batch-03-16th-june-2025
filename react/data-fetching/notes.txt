@@ -1,0 +1,18 @@
+get => all posts
+http://localhost:3000/posts
+
+http://localhost:3000/posts/id  =>get
+
+http://localhost:3000/posts  => post (create)
+
+form => 
+axios.post(url,data)
+
+http://localhost:3000/posts/id  => put (update)
+axios.put(url ,data)
+
+http://localhost:3000/posts/id  => delete (delete) 
+
+axios.delete(url)
+
+
