@@ -16,3 +16,4 @@ http://localhost:3000/posts/id  => delete (delete)
 axios.delete(url)
 
 
+  

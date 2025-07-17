@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import DataFetching from './DataFetching'
 import SingleProduct from './SingleProduct'
+import TabComp from './TabComp'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,7 +12,8 @@ function App() {
   return (
     <>
       {/* <DataFetching /> */}
-      <SingleProduct />
+      {/* <SingleProduct /> */}
+      <TabComp /> 
     </>
   )
 }
