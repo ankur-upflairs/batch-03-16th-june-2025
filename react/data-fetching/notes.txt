@@ -3,7 +3,7 @@ http://localhost:3000/posts
 
 http://localhost:3000/posts/id  =>get
 
-http://localhost:3000/posts  => post (create)
+http://localhost:3000/posts  => post (create) 
 
 form => 
 axios.post(url,data)
@@ -13,7 +13,11 @@ axios.put(url ,data)
 
 http://localhost:3000/posts/id  => delete (delete) 
 
-axios.delete(url)
+axios.delete(url) 
 
-
+{
+      "id": 4,
+      "title": "eum et est occaecati",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    }
   
