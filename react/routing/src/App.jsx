@@ -9,6 +9,7 @@ import Navbar from "./components/Navbar";
 import CreateNewPost from "./Pages/CreateNewPost";
 import UpdatePost from "./Pages/UpdatePost";
 import Page404 from "./Pages/Page404";
+import About from "./Pages/About";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -22,7 +23,8 @@ function App() {
           <Route path="create" element={<CreatePost />}>
             <Route path="new" element={<CreateNewPost />} />
             <Route path="update/:id" element={<UpdatePost />} />
-          </Route>
+          </Route> 
+          <Route path="about" element={<About />}/>         
           <Route path="*" element={<Page404/>} />
         </Routes>
       </BrowserRouter>

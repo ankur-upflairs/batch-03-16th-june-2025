@@ -20,6 +20,9 @@ function Navbar() {
         <li>
           <NavLink to={"/create/new"}>Create Post</NavLink>
         </li>
+        <li>
+          <NavLink to={"/about"}>About</NavLink>
+        </li>
       </ul>
     </div>
   );
