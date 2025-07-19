@@ -1,0 +1,2 @@
+Task : - make task management app with given ui (in react folder) and perform crud (create, read ,update,
+delete) on tasks with json-server and axios
