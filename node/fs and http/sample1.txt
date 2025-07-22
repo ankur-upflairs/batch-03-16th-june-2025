@@ -1,0 +1,2 @@
+text is added by promises
+ appeded text
