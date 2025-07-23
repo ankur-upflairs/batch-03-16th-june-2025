@@ -1,0 +1,6 @@
+sql => no-sql
+table => json like (document)
+database => database
+table  =>  collection (array of objects )
+row   =>   document (object )
+columns => fields 
