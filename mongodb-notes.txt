@@ -4,3 +4,50 @@ database => database
 table  =>  collection (array of objects )
 row   =>   document (object )
 columns => fields 
+
+commands 
+show dbs
+use testing
+show collections
+db.students.insertOne({name:sunil,age:15})
+db.students.insertMany([
+  { name: "Alice", age: 25 },
+  { name: "Bob", age: 30 },
+  { name: "Charlie", age: 22 },
+  { name: "Diana", age: 28 },
+  { name: "Ethan", age: 35 },
+  { name: "Fiona", age: 27 },
+  { name: "George", age: 32 },
+  { name: "Hannah", age: 24 },
+  { name: "Ian", age: 29 },
+  { name: "Jasmine", age: 26 }
+])
+db.students.find({})
+db.students.find({name:"sunil"})
+> - $gt ,< - $lt , == $eq , != $ne
+$and , $or
+db.students.find({age:{$gte:30}})
+db.students.find({$and:[{age:{$gte:25}},{age:{$lte:30}}]})
+db.students.countDocuments()
+db.students.deleteOne({age:27})
+db.students.deleteMany({age:{$gte:32}})
+db.students.updateMany({name:"Bob"},{$set:{name:"bablee"}})
+db.students.updateMany({name:"Bob"},{$set:{name:"bablee"}})
+
+objectId => 4+5+3 
+_id 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
