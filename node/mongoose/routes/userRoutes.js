@@ -1,10 +1,8 @@
 const express = require('express')
-const { register } = require('../controllers/userController')
+const { register, login } = require('../controllers/userController')
 const router = express.Router()
 
-router.post('/login',(req,res)=>{
-    res.send('user login successfull')
-})
+router.post('/login',login)
 router.post('/register',register)
 
 
