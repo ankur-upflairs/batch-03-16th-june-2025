@@ -1,8 +1,15 @@
-var express = require('express');
-const { getAllCourses } = require('../controllers/courseController');
-var router = express.Router();
 
-/* GET users listing. */
-router.get('/', getAllCourses);
+const express = require('express');
+const router = express.Router();
+const courseController = require('../controllers/courseController');
+
+router.get('/', courseController.getAllCourses);
+router.get('/:id', courseController.getCourseById);
+router.post('/', courseController.createCourse);
+router.put('/:id', courseController.updateCourse);
+router.delete('/:id', courseController.deleteCourse);
 
 module.exports = router;
+
+
+

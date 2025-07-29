@@ -6,7 +6,7 @@ import { GetAllCourses } from '../api/courseApi';
 const CoursesPage = () => {
     const [courses, setCourses] = useState([])
     useEffect(() => {
-        GetAllCourses('http://localhost:3000/courses/')
+        GetAllCourses()
         .then(data=>{
             setCourses(data.courses)
         })        
